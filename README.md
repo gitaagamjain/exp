@@ -1,12 +1,6 @@
 # exp
 Experiment
-<h1 align="center">Hi 👋, I'm Aagam Jain</h1>
-<h3 align="center">A newbie </h3>
+<h1 align="center">Hello World.</h1>
+<h3 align="center">hii</h3>
 
-- 🔭 I’m in my 1st year in Computer Science course in UPES, Dehradun.
-- 🌱 I’m presently learning about github
-- 💬My hobbies are playing video games
-<br>
- edit test 1.
-<br>
-eldit test 2.
+
